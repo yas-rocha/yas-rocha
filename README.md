@@ -11,6 +11,9 @@
 💻  Sou uma dev iniciante e aqui posto alguns dos meus aprendizados.
 <br>
 📎 [Acesse o meu Linkedin](https://www.linkedin.com/in/yasmin-rocha-06a96930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+********************
+### Minhas Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <!-- 
 **yas-rocha/yas-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
