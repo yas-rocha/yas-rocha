@@ -1,14 +1,14 @@
 
 <!-- Cabeçalhos -->
 
-## Sejam Bem-Vindos ao meu mundo!
+## Sejam bem-vindos ao meu mundo!
 
 ![Gif de anime](https://media1.tenor.com/m/zk6OuE-RGngAAAAd/midoriya-izuku-anime-stud.gif)
 ********************
 
 👋 Olá, me chamo Yasmin Rocha!
 <br>
-💻  Sou estudante.
+💻  Sou dev. iniciante e aqui posto alguns dos meus aprendizados.
 <br>
 📁 [Acesse o meu Linkedin](https://www.linkedin.com/in/yasmin-rocha-06a96930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <!-- 
