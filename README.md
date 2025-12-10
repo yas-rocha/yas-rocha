@@ -3,7 +3,7 @@
 
 ## Sejam Bem-Vindos ao meu mundo!
 
-![Gif de anime](https://www.reddit.com/r/sailormoon/comments/1g0h8nn/usagi_is_so_bad_with_computers_that_luna_has_to/)
+![Gif de anime](https://preview.redd.it/5sn6cq956xtd1.gif?width=540&format=mp4&s=9fdd47d68e289979d69b3d009e8b7bb5a805fc78)
 
 👋 Olá, me chamo Yasmin Rocha!
 <br>
