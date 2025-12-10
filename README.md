@@ -8,6 +8,8 @@
 👋 Olá, me chamo Yasmin Rocha!
 <br>
 💻  Sou estudante.
+<br>
+📁 [Linkedin]
 <!-- 
 **yas-rocha/yas-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
