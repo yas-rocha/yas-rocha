@@ -3,7 +3,7 @@
 
 ## Sejam bem-vindos ao meu mundo!
 
-![Gif de anime](https://media1.tenor.com/m/BnIPE5qUprgAAAAd/luna-sailor-moon.gif)
+![Gif de anime](https://i.redd.it/5sn6cq956xtd1.gif)
 ********************
 
 🌼 Olá, me chamo Yasmin Rocha!
