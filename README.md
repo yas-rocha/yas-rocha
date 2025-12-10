@@ -1,6 +1,14 @@
-## Hi there 👋
 
-<!--
+<!-- Cabeçalhos -->
+
+## Sejam Bem-Vindos ao meu mundo!
+
+![Gif de anime]
+
+👋 Olá, me chamo Yasmin Rocha!
+<br>
+💻  Sou estudante.
+<!-- 
 **yas-rocha/yas-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
