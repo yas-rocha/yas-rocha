@@ -6,7 +6,7 @@
 ![Gif de anime](https://media1.tenor.com/m/zk6OuE-RGngAAAAd/midoriya-izuku-anime-stud.gif)
 ********************
 
-👋 Olá, me chamo Yasmin Rocha!
+🌼 Olá, me chamo Yasmin Rocha!
 <br>
 💻  Sou uma dev. iniciante e aqui posto alguns dos meus aprendizados.
 <br>
