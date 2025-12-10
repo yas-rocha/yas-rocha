@@ -3,7 +3,8 @@
 
 ## Sejam Bem-Vindos ao meu mundo!
 
-![Gif de anime](https://preview.redd.it/5sn6cq956xtd1.gif?width=540&format=mp4&s=9fdd47d68e289979d69b3d009e8b7bb5a805fc78)
+![Gif de anime](https://media1.tenor.com/m/zk6OuE-RGngAAAAd/midoriya-izuku-anime-stud.gif)
+********************
 
 👋 Olá, me chamo Yasmin Rocha!
 <br>
