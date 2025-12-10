@@ -3,7 +3,7 @@
 
 ## Sejam Bem-Vindos ao meu mundo!
 
-![Gif de anime](https://media1.tenor.com/m/zk6OuE-RGngAAAAd/midoriya-izuku-anime-stud.gif)
+![Gif de anime](https://www.reddit.com/r/sailormoon/comments/1g0h8nn/usagi_is_so_bad_with_computers_that_luna_has_to/)
 ********************
 
 👋 Olá, me chamo Yasmin Rocha!
