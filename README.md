@@ -3,13 +3,13 @@
 
 ## Sejam Bem-Vindos ao meu mundo!
 
-![Gif de anime]
+![Gif de anime](https://preview.redd.it/5sn6cq956xtd1.gif?width=540&format=mp4&s=9fdd47d68e289979d69b3d009e8b7bb5a805fc78)
 
 👋 Olá, me chamo Yasmin Rocha!
 <br>
 💻  Sou estudante.
 <br>
-📁 [Linkedin](https://www.linkedin.com/in/yasmin-rocha-06a96930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📁 [Acesse o meu Linkedin](https://www.linkedin.com/in/yasmin-rocha-06a96930a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <!-- 
 **yas-rocha/yas-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
